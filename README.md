@@ -15,7 +15,7 @@ A fun, responsive portfolio website built with **HTML** and **Tailwind CSS**, th
 - Custom CSS
 
 ## 📷 Preview
-> (Insert screenshot or link to live site if hosted)
+> https://atharvavdeo.github.io/dino-portfolio/
 
 ## 🚀 Getting Started
 1. Clone the repository:
